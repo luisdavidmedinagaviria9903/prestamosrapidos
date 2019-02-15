@@ -1,0 +1,119 @@
+{"Entry_ID":"97",
+
+"Heading":"Referencia Familiar",
+
+"Cantidad":"350000",
+
+"Dias":"30",
+
+"pPlataforma":"1250",
+
+"pIntereses":"0.00062279",
+
+"pAval1":"0.128518",
+
+"pAval2":"0.00119",
+
+"Text_Field":"",
+
+"Aval":"59500",
+
+"Intereses":"6539.3",
+
+"Plataforma":"37500",
+
+"IVA":"7125",
+
+"vIVA":"0",
+
+"total_pagar":"",
+
+"informaci\u00f3n_b\u00e1sica":"Informaci\u00f3n B\u00e1sica",
+
+"Email":"luismedina@gmail.com",
+
+"Nombres":"luis david ",
+
+"Apellidos":"meidna gaviria",
+
+"Cedula":"1045758190",
+
+"Estado_Civil":"Casado(a)",
+
+"Fecha_de_expedici\u00f3n":"30\/03\/2017",
+
+"Celular":"3007720713",
+
+"Ciudad":"BOGOTA, D.C. - BOGOTA",
+
+"Personas_a_cargo":"0",
+
+"Fecha_de_Nacimiento":"12\/03\/1999",
+
+"Nivel_de_estudios":"Ninguno",
+
+"Sexo":"Masculino",
+
+"informaci\u00f3n_residencial":"Informaci\u00f3n Residencial",
+
+"Direccion":"cll 57 #9l-100",
+
+"Tipo_de_vivienda":"Rentada",
+
+"Tiempo_de_permanencia":"Entre 6 meses y 1 a\u00f1o",
+
+"informaci\u00f3n_laboral":"Informaci\u00f3n Laboral",
+
+"Tipo_de_trabajador":"Independiente",
+
+"Actividad_Laboral_Empleado":"",
+
+"Actividad_Laboral_Independiente":"Ama de casa",
+
+"Entidad_Bancaria":"Banco de Bogot\u00e1",
+
+"Tipo_de_cuenta":"Ahorros",
+
+"Numero_de_tu_cuenta":"1045758754747",
+
+"Total_ingresos_netos_mensuales":"2000000",
+
+"Total_gastos_mensuales":"500000",
+
+"Nombre_ref__personal":"nidia",
+
+"Apellido_ref__personal":"gaviria",
+
+"Ciudad_ref__personal":"monteria",
+
+"Telefono_ref__personal":"3003739423",
+
+"Nombre_ref__familiar":"neider",
+
+"Apellido_ref__familiar":"ruiz",
+
+"Ciudad_ref__familiar":"itagui",
+
+"Telefono_ref__familiar":"3114448896",
+
+"\u00bfEn_que_utilizaras_el_prestamo?":"\u00datiles escolares ",
+
+"\u00bfQuien_te_refirio?":"",
+
+"ACEPTO_SER_CONSULTADO_EN_CENTRALES_DE_RIESGO_Y_LOS_TERMINOS_Y_CONDICIONES":"ACEPTO",
+
+"Seguro-valor":"0","intereses-valor":"0",
+
+"vMembres\u00eda":"0",
+
+"Tecnolog\u00eda-valor":"0",
+
+"Inter\u00e9ses":"0",
+
+"Membres\u00eda":"0",
+
+"Seguro":"0",
+
+"Tecnolog\u00eda":"0",
+
+"Canal":"6"}
