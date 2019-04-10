@@ -1,9 +1,7 @@
 <?php  
 
 $datos = $_REQUEST;
-/************************************************************************/
-/*                          Section client                             */  
-/**********************************************************************/
+
 $url = 'http://localhost:8010/rapicredit/servicios/registroCliente/';
 
  
@@ -84,30 +82,6 @@ print_r($respuestaInfoCliente);
 
 
 
-/**************** Modulo SOlicitud *************************/
-
-// $url = 'http://localhost:8010/rapicredit/servicios/registroSolicitud/';
-
-// $contextSolicitud = stream_context_create(array(
-//     'http' => array(
-//         'method' => 'POST',
-//         'header' => 'Content-type: application/x-www-form-urlencoded',
-//         'content' => http_build_query(
-//             array(
-//                 'documento' => $datos["Cedula"],
-//                 'tipoProducto' => 1,
-//                 'monto' => $datos["Cantidad"],
-//                 'plazo' => $datos["Dias"]
-                
-                
-//             )
-//         ),
-//         'timeout' => 10
-//     )
-// ));
-
-// $resp = file_get_contents($url, FALSE, $context);
-// print_r($resp);
 
 
 
